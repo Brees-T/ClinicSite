@@ -1,5 +1,5 @@
 #title {
-  background-color: #ff4c68;
+  background-color: #12d3cf;
   color: #fff;
 }
 
@@ -78,24 +78,24 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #67eaca;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #12d3cf;
 }
 
 
 /*Testimonial section*/
 #testimonials {
-  background-color: #ef8172;
+  background-color: #67eaca;
   color: #fff;
   text-align: center;
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #67eaca;
   text-align: center;
   padding-bottom: 5%;
 }
